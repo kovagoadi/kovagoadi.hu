@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://kovagoadi.hu
 
-languageCode: bn
-title: "John's Blog"
+languageCode: hu 
+title: "Ádám's blog"
 
 # Use Hugo modules to add theme
 module:
@@ -23,12 +23,12 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Ádám's blog" 
     weight: 1
-  bn:
-    languageCode: bn
-    languageName: বাংলা
-    title: জনের ব্লগ
+  hu:
+    languageCode: hu 
+    languageName: Magyar 
+    title: Ádám blogja 
     weight: 2
 # default language for the content
 defaultContentLanguage: en
@@ -68,7 +68,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/kovagoadi/kovagoadi.hu
   # Default branch of your Git repo
   gitBranch: main
 
@@ -304,4 +304,4 @@ params:
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: true
+      enable: false 

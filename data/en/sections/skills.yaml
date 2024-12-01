@@ -27,36 +27,35 @@ buttons:
 skills:
 - name: Kubernetes
   logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  summary: "Capable of deploying, managing application on Kubernetes. Capable of writing complex systems inside Kubernetes with or without Helm."
   categories: ["container"]
   url: "https://kubernetes.io/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  categories: ["basic", "language"]
-  url: "https://golang.org/"
+- name: C# Development
+  logo: /images/sections/skills/csharp.svg
+  summary: "Capable of developing both complex and simple applications. Understanding of complex C# concepts such as Linq. Able to write both console and graphical applications with WPF."
+  categories: ["language"]
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Worked with most of the major clouds such as GCP, Microsoft Azure etc."
   categories: ["others"]
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  summary: "Experienced with the build process. Broad understaing of containerisation process"
   categories: ["container"]
   url: "https://www.docker.com/"
 
 - name: Prometheus
   logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+  summary: "Basic understaing of Prometheus. Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager."
   categories: ["basic"]
   url: "https://prometheus.io/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "Using as the main operating system. Capable of writing complex bash/shell scripts."
   categories: ["others"]
 
 - name: Git
@@ -65,7 +64,17 @@ skills:
   categories: ["basic"]
   url: "https://git-scm.com/"
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Able to write simple automation scripts using Python."
   categories: ["basic", "language"]
+
+- name: Terraform
+  logo: /images/sections/skills/terraform.png
+  summary: "Able to convert cloud resources into code using Terraform. Most experience is with Microsoft Azure and azapi"
+  categories: ["language"]
+
+- name: Packet Tracer 
+  logo: /images/sections/skills/packettracer.png
+  summary: "Able to create complex network topologies in Packet Tracer."
+  categories: ["other"]
