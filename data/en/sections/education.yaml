@@ -93,7 +93,7 @@ degrees:
   # - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
   # - Duis sed massa feugiat, ornare justo et, aliquam est.
   # - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
+- name: Matura Exam
   icon: fa-school
   timeframe: 2018-2023
   institution:
