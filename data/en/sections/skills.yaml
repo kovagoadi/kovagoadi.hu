@@ -15,10 +15,10 @@ buttons:
   filter: "all"
 - name: Basic
   filter: "basic"
-- name: Language
+- name: Programming language
   filter: "language"
-- name: Container
-  filter: "container"
+- name: DevOps 
+  filter: "DevOps"
 - name: Others
   filter: "others"
 
@@ -28,35 +28,36 @@ skills:
 - name: Kubernetes
   logo: /images/sections/skills/kubernetes.png
   summary: "Capable of deploying, managing application on Kubernetes. Capable of writing complex systems inside Kubernetes with or without Helm."
-  categories: ["container"]
+  categories: ["DevOps"]
   url: "https://kubernetes.io/"
 
 - name: C# Development
   logo: /images/sections/skills/csharp.svg
   summary: "Capable of developing both complex and simple applications. Understanding of complex C# concepts such as Linq. Able to write both console and graphical applications with WPF."
-  categories: ["language"]
+  categories: ["Programming language"]
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, Microsoft Azure etc."
-  categories: ["others"]
+- name: Google Cloud Platform
+  logo: /images/sections/skills/gcp.png
+  summary: "Able to create complex infrastructure on GCP with GKE, Artifact Registry, etc."
+  categories: ["DevOps"]
+  url: "https://cloud.google.com/"
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Experienced with the build process. Broad understaing of containerisation process"
-  categories: ["container"]
+  summary: "Experienced with the build process. Broad understaing of containerisation process."
+  categories: ["basic", "container"]
   url: "https://www.docker.com/"
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Basic understaing of Prometheus. Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager."
-  categories: ["basic"]
-  url: "https://prometheus.io/"
+- name: Microsoft Azure 
+  logo: /images/sections/skills/azure.png
+  summary: "Creatign enterprise grade infrastructure with a security focus particular on WAF."
+  categories: ["DevOps"]
+  url: "https://azure.microsoft.com/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
   summary: "Using as the main operating system. Capable of writing complex bash/shell scripts."
-  categories: ["others"]
+  categories: ["basic", "others"]
 
 - name: Git
   logo: /images/sections/skills/git.png
@@ -71,10 +72,15 @@ skills:
 
 - name: Terraform
   logo: /images/sections/skills/terraform.png
-  summary: "Able to convert cloud resources into code using Terraform. Most experience is with Microsoft Azure and azapi"
-  categories: ["language"]
+  summary: "Able to convert cloud resources into code using Terraform. Most experience is with Microsoft Azure and azapi."
+  categories: ["DevOps", "Programming language"]
 
 - name: Packet Tracer 
   logo: /images/sections/skills/packettracer.png
   summary: "Able to create complex network topologies in Packet Tracer."
   categories: ["other"]
+
+- name: Cloudflare 
+  logo: /images/sections/skills/cloudflare.png
+  summary: "Familiar with most of the services of Cloudflare and able configure if for low to medium traffic environments."
+  categories: ["other", "DevOps"]

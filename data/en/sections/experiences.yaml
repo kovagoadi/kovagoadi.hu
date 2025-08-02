@@ -28,6 +28,9 @@ experiences:
     responsibilities:
     - Maintaining client's infrastucture on Microsoft Azure using Terraform
     - Increasing security in Kubernetes cluster using SecurityContext and by implementing WAF
+    - Using Google-developed blueprints to architect, deploy and govern a secure and scalable Google Cloud Organization
+    - Enhancing the previously mentioned blueprints to better align with modern organizations.
+    - Implemented infrastructure for AI/ML pipelines (particularly Vertex AI) with quota and limitations (with Organization Policy and VPC-SC)
 
   - designation: DevOps intern 
     start: Mar 2024 

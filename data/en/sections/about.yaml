@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate beginner DevOps engineer with only half year of working experience. I use open source software for managing web-based [Kubernetes](https://kubernetes.io/) deployments. My work helps people to access their workloads in Kubernetes in a secure way. Sometimes, I work on some fun projects such as writing a Discord bot, etc.'
+summary: 'I am a passionate beginner DevOps engineer more than one year of experience. I use open source software for managing web-based [Kubernetes](https://kubernetes.io/) deployments. My work helps people to access their workloads in Kubernetes in a secure way. Sometimes, I work on some fun projects such as writing a Discord bot, etc.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -36,9 +36,9 @@ socialLinks:
 #   icon: "fab fa-stack-overflow"
 #   url: "#"
  
-# - name: LinkedIn
-#   icon: "fab fa-linkedin"
-#   url: "#"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/%C3%A1d%C3%A1m-k%C5%91v%C3%A1g%C3%B3-793963349/"
  
 # - name: Twitter
 #   icon: "fab fa-twitter"
@@ -82,20 +82,20 @@ badges:
 #   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
 #   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 70 
-  color: blue
-
-- type: soft-skill-indicator
-  name: Team Work
-  percentage: 80 
-  color: yellow
-
-- type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
-  color: orange
+# - type: soft-skill-indicator
+#   name: Leadership
+#   percentage: 70 
+#   color: blue
+# 
+# - type: soft-skill-indicator
+#   name: Team Work
+#   percentage: 80 
+#   color: yellow
+# 
+# - type: soft-skill-indicator
+#   name: Hard Working
+#   percentage: 85
+#   color: orange
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator

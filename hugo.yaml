@@ -25,11 +25,11 @@ languages:
     languageName: English
     title: "Ádám's blog" 
     weight: 1
-  hu:
-    languageCode: hu 
-    languageName: Magyar 
-    title: Ádám blogja 
-    weight: 2
+  # hu:
+  #   languageCode: hu 
+  #   languageName: Magyar 
+  #   title: Ádám blogja 
+  #   weight: 2
 # default language for the content
 defaultContentLanguage: en
 
