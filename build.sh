@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "test"
 hugo mod tidy
 
 hugo mod npm pack
