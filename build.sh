@@ -3,6 +3,6 @@ set -x
 hugo mod tidy
 
 hugo mod npm pack
-npm install 
+npm install
 
 hugo
